@@ -1,0 +1,5 @@
+HOST = 'localhost'
+USER = 'fac1ent'
+PASSWORD  = 'anezod41501330513A'
+NAME = 'reg'
+SECRET_KEY = 'django-insecure-)=y2=g9m15wug0l56)m*59mfg3_jh-u&djeopb1@oldkb%59rh'
